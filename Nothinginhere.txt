@@ -5,8 +5,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/rathu89/Test.git
 git push -u origin master
-…or push an existing repository from the command line
+â€¦or push an existing repository from the command line
 git remote add origin https://github.com/rathu89/Test.git
 git push -u origin master
-…or import code from another repository
+â€¦or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project
+
+Weâ€™ve detected the file encoding as windows-1252. When you commit changes we will transcode it to UTF-8.
+
+OK
